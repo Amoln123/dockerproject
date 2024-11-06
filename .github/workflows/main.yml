@@ -5,6 +5,7 @@ on:
     branches: ['main', '*']  # Allows main and other branches to trigger the action
 
 
+
     
 jobs:
   push_to_registry:
